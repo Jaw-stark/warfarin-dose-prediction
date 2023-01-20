@@ -1,2 +1,2 @@
 # warfarin-dose-prediction
-warfarin dose-response relationship using machine learning techniques to determine the therapeutic warfarin dose during the initiation period.
+Since researchers have already identified the relationship between the warfarin dose requirements and certain critical factors, this project purpose is to develop the warfarin dose-response relationship using machine learning techniques to determine the therapeutic warfarin dose during the initiation period and finally develop an interactive web interface using  Gradio and HuggingFace.
